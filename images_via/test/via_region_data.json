@@ -9,7 +9,7 @@
           "all_points_x": [566, 553, 626, 676, 698, 730, 744, 684, 627, 593],
           "all_points_y": [23, 38, 163, 281, 332, 329, 277, 120, 40, 9]
         },
-        "region_attributes": { "cusot": "" }
+        "region_attributes": {}
       }
     ],
     "file_attributes": {}
@@ -24,7 +24,7 @@
           "all_points_x": [540, 511, 426, 382, 304, 274, 309, 360, 488, 541, 548],
           "all_points_y": [91, 91, 178, 264, 385, 484, 523, 502, 281, 147, 119]
         },
-        "region_attributes": { "cusot": "" }
+        "region_attributes": {}
       }
     ],
     "file_attributes": {}
@@ -39,7 +39,7 @@
           "all_points_x": [260, 312, 505, 537, 534, 504, 314, 267, 247],
           "all_points_y": [419, 412, 418, 432, 464, 476, 460, 451, 429]
         },
-        "region_attributes": { "cusot": "" }
+        "region_attributes": {}
       }
     ],
     "file_attributes": {}
@@ -54,7 +54,7 @@
           "all_points_x": [301, 301, 341, 432, 450, 429, 419, 325],
           "all_points_y": [378, 395, 390, 319, 282, 271, 264, 361]
         },
-        "region_attributes": { "cusot": "" }
+        "region_attributes": {}
       }
     ],
     "file_attributes": {}
@@ -69,7 +69,7 @@
           "all_points_x": [209, 191, 192, 237, 269, 296, 297, 239, 221],
           "all_points_y": [461, 454, 425, 367, 332, 333, 354, 433, 460]
         },
-        "region_attributes": { "cusot": "" }
+        "region_attributes": {}
       }
     ],
     "file_attributes": {}
@@ -84,7 +84,7 @@
           "all_points_x": [427, 446, 444, 425, 398, 380, 361, 357, 351, 388, 397, 413],
           "all_points_y": [522, 479, 432, 328, 243, 226, 227, 233, 264, 455, 499, 520]
         },
-        "region_attributes": { "cusot": "" }
+        "region_attributes": {}
       }
     ],
     "file_attributes": {}
